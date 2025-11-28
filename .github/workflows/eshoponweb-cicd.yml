@@ -3,6 +3,7 @@ name: eShopOnWeb Build and Test
 #Triggers (uncomment line below to use it)
 on: [push, workflow_dispatch]
 
+#using azure user assigned managed-identity with federated credentials
 permissions:
   id-token: write
   contents: read
