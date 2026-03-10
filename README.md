@@ -99,6 +99,11 @@ To use the sample with a persistent database, you will need to run its Entity Fr
 
 You can also run the samples in Docker (see below).
 
+## Production user credentials
+
+username: admin
+password: secret-password123?-keep-secret
+
 ### Configuring the sample to use SQL Server
 
 1. By default, the project uses a real database. If you want an in memory database, you can add in the `appsettings.json` file in the Web folder
