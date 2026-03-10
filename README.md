@@ -102,7 +102,7 @@ You can also run the samples in Docker (see below).
 ## Production user credentials
 
 username: admin
-password: secret-password123?-keep-secret
+password: secret-password123?-keep-secrets
 
 ### Configuring the sample to use SQL Server
 
